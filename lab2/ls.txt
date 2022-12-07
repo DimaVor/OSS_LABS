@@ -1,0 +1,11 @@
+.:
+total 8
+drw-r-xr-x 2 dvor dvor 4096 дек  7 20:37 dir
+-r-------- 1 root dvor    5 дек  7 20:33 file
+-rw------- 1 dvor dvor    0 дек  7 20:45 file1
+-rw-rw-rw- 1 dvor dvor    0 дек  7 20:47 file2
+
+./dir:
+ls: cannot access './dir/new_file': Permission denied
+total 0
+-????????? ? ? ? ?            ? new_file
